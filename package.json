@@ -1,0 +1,23 @@
+{
+  "name": "actionator",
+  "version": "1.0.0",
+  "description": "testing github actions",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogsio/actionator.git"
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kogsio/actionator/issues"
+  },
+  "homepage": "https://github.com/kogsio/actionator#readme",
+  "dependencies": {
+    "course-utilities": "^1.0.0",
+    "jest": "^26.4.2"
+  }
+}
